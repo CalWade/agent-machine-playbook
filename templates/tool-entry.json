@@ -1,0 +1,14 @@
+{
+  "id": "example-tool",
+  "name": "示例工具",
+  "purpose": "填写实际用途",
+  "manager": "填写实际管理器或自维护方式",
+  "install_path": "~/Developer/tools/example-tool",
+  "entry": {"command": ["待核实的稳定入口"]},
+  "version_recorded": null,
+  "dependencies": [],
+  "data_paths": [],
+  "verification": {"date": null, "level": "unverified", "scope": "仅为模板，尚未核实或安装", "references": []},
+  "known_limits": [],
+  "maintenance": {"update": "填写实际升级方法", "uninstall": "填写实际卸载与数据保留方法"}
+}

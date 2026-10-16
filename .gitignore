@@ -1,0 +1,22 @@
+# Machine-specific state belongs outside this repository.
+/tools.json
+/TOOLS.md
+/inventory.json
+/policy-source.json
+/changes/
+/local/
+/backups/
+.env
+.env.*
+*.key
+*.pem
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.runtime/
